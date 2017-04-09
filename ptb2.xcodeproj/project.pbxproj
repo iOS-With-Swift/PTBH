@@ -516,6 +516,7 @@
 				2693A0FE1E98B20E001ECE68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2693A0FF1E98B20E001ECE68 /* Build configuration list for PBXNativeTarget "ptb2Tests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				2693A1011E98B20E001ECE68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2693A1021E98B20E001ECE68 /* Build configuration list for PBXNativeTarget "ptb2UITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				2693A1041E98B20E001ECE68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
